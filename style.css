@@ -1,0 +1,76 @@
+body {
+    font-family: 'Domine', serif;
+    background-color: #424242;
+}
+
+.journal {
+    background-color: #880E4F;
+    min-height: 100vh;
+}
+
+.journal-title {
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 3.8em;
+}
+
+.journal-title-k {
+    color: #000000;
+}
+
+.btn {
+    border: none;
+    border-radius: 10px;
+    background-color: #424242;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.1em;
+}
+
+.btn:hover {
+    border: 2px solid #ffffff;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.btn:focus {
+    box-shadow: none;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+.content {
+    background-color: #BCAAA4;
+    border-radius: 10px;
+    font-size: 1.1em;
+}
+
+.nav-link {
+    font-weight: 700;
+}
+
+.nav-pills .nav-link {
+    color: black;
+    border: 2px solid #880E4F;
+}
+
+.nav-pills .nav-link.active {
+    color: #ffffff;
+    background-color: #880E4F;
+}
+
+.footer {
+    color: #000000;
+}
+
+.issue {
+    font-size: 100%;
+    color: #000000;
+    border: 2px solid #424242;
+}
+
+.issue:hover {
+    color: #880E4F;
+}
